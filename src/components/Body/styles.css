@@ -1,8 +1,10 @@
 .body-content {
     background-color: #A5A5A5;
     width: 65vw;
-    min-height: 78.7vh;
+    /* min-height: 78.7vh; */
+    display: flex;
+    height: 100%;
     /* max-height: 78.7vh; */
-    height: auto;
+    /* height: auto; */
     margin: 0 auto;
 }
